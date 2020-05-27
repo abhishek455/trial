@@ -1,0 +1,3 @@
+# git remote add origin <Link>
+# git pull origin master
+# git Status
